@@ -1,5 +1,6 @@
 # Notes for the code of the exercises of project euler
 
+# 1 to 10
 ## About Primes:
 ```python
 def largest_prime_factor(n):
@@ -25,9 +26,8 @@ def all(iterable):
     return True
 ```
 
-
-# Leer de vez en cuando o algo, yisus
-
-# replace()
+## replace()
 **string.replace( char to replace , replace with)**
 Replace the char for the one given
+
+# 11 to 20
