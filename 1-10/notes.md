@@ -24,3 +24,10 @@ def all(iterable):
             return False
     return True
 ```
+
+
+# Leer de vez en cuando o algo, yisus
+
+# replace()
+**string.replace( char to replace , replace with)**
+Replace the char for the one given
